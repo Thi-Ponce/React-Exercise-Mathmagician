@@ -1,0 +1,15 @@
+button {
+  width: 3em;
+  height: 3em;
+  border: 1px solid #aaa;
+  margin: 0.1em;
+  font-size: 1.6em;
+}
+
+.btn-orange {
+  background-color: #ff8c00;
+}
+
+.btn-grey {
+  background-color: #dcdcdc;
+}
