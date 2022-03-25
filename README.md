@@ -36,6 +36,10 @@ If you like this project please let me know!
 
 - Thank you to all the friends that helped me along the way to create this.
 
+## See live
+
+[Live project to be added soon](https://github.com/Thi-Ponce/react-mathmagician)
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
