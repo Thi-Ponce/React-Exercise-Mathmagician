@@ -19,7 +19,7 @@ const Calculator = () => {
       <div className="title">
         <h1>Let's do some Math</h1>
       </div>
-      <div>
+      <div className="big-container">
         <Box m={15} />
         <Container maxWidth="xs">
           <div className="calculator-container">

@@ -1,9 +1,9 @@
 import { Link } from 'react-router-dom';
 
 const NavBar = () => (
-  <NavBar>
+  <header>
     <h1>Math Magicians</h1>
-    <nav className="navbar">
+    <nav className="nav-bar">
       <ul>
         <li>
           <Link to="/">Home</Link>
@@ -16,7 +16,7 @@ const NavBar = () => (
         </li>
       </ul>
     </nav>
-  </NavBar>
+  </header>
 );
 
 export default NavBar;

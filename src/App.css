@@ -1,3 +1,28 @@
 .App {
   text-align: center;
 }
+
+header {
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-left: 25px;
+}
+
+nav ul {
+  list-style: none;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.home {
+  padding: 50px;
+}
